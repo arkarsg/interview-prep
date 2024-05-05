@@ -8,4 +8,7 @@
 | :white_check_mark: | Valid Anagram | Easy |
 | :white_check_mark: | Two Sum | Easy |
 | :white_check_mark: | Group Anagrams | Medium |
-| :white_check_mark: | Top K Frequent Elements | Medium 
+| :white_check_mark: | Top K Frequent Elements | Medium |
+| :white_check_mark: | Product of Array Except Self | Medium |
+| :white_check_mark: | Valid Sudoku | Medium |
+
