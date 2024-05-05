@@ -2,13 +2,13 @@
 
 ## Array & Hashing
 
-| Done | Problem | Difficulty |
-|---|---|---|
-| :white_check_mark: | Contains Duplicate | Easy |
-| :white_check_mark: | Valid Anagram | Easy |
-| :white_check_mark: | Two Sum | Easy |
-| :white_check_mark: | Group Anagrams | Medium |
-| :white_check_mark: | Top K Frequent Elements | Medium |
-| :white_check_mark: | Product of Array Except Self | Medium |
-| :white_check_mark: | Valid Sudoku | Medium |
+| Done | Problem | Difficulty | Language |
+|---|---|---| --- |
+| :white_check_mark: | Contains Duplicate | Easy | `Python` |
+| :white_check_mark: | Valid Anagram | Easy | `Python` |
+| :white_check_mark: | Two Sum | Easy | `Python` `Go` |
+| :white_check_mark: | Group Anagrams | Medium | `Python` |
+| :white_check_mark: | Top K Frequent Elements | Medium | `Python` `Go` |
+| :white_check_mark: | Product of Array Except Self | Medium | `Python` `Go` |
+| :white_check_mark: | Valid Sudoku | Medium | `Python` |
 
