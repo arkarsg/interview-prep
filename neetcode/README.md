@@ -11,4 +11,4 @@
 | :white_check_mark: | Top K Frequent Elements | Medium | `Python` `Go` |
 | :white_check_mark: | Product of Array Except Self | Medium | `Python` `Go` |
 | :white_check_mark: | Valid Sudoku | Medium | `Python` |
-| :white_check_mark: | Valid Palindrome | Easy | `Python` |
+| :white_check_mark: | Valid Palindrome | Easy | `Python` `Go` |
