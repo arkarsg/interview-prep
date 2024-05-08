@@ -13,4 +13,8 @@
 | :white_check_mark: | Valid Sudoku | Medium | `Python` |
 | :white_check_mark: | Valid Palindrome | Easy | `Python` `Go` |
 | :white_check_mark: | Two Sum II | Medium | `Python` `Go` |
-| :white_check_mark: | 3Sum | Medium | `Python` `Go` |
+| :white_check_mark: | 3Sum* | Medium | `Python` `Go` |
+
+> *A note for 3Sum
+>
+> The solution in Python beats >90% of the submissions. However, if you use the same approach in Go, the performance is <30% of the submissions. 
