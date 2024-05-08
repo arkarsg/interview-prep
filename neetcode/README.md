@@ -13,3 +13,4 @@
 | :white_check_mark: | Valid Sudoku | Medium | `Python` |
 | :white_check_mark: | Valid Palindrome | Easy | `Python` `Go` |
 | :white_check_mark: | Two Sum II | Medium | `Python` `Go` |
+| :white_check_mark: | 3Sum | Medium | `Python` `Go` |
