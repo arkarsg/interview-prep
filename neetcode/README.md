@@ -23,3 +23,4 @@
 ## Stack
 
 | :white_check_mark: | Valid Parentheses | Easy | `Python` `Go` |
+| :white_check_mark: | Min Stack | Medium | `Python` `Go` |
