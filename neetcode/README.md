@@ -25,3 +25,4 @@
 | :white_check_mark: | Valid Parentheses | Easy | `Python` `Go` |
 | :white_check_mark: | Min Stack | Medium | `Python` `Go` |
 | :white_check_mark: | Generate Valid Parentheses | Medium | `Python` `Go` |
+| :white_check_mark: | Car Fleet | Medium | `Python` `Go` |
