@@ -18,6 +18,7 @@
 | :white_check_mark: | Two Sum II | Medium | `Python` `Go` |
 | :white_check_mark: | 3Sum | Medium | `Python` `Go` |
 | :white_check_mark: | Container with Most Water | Medium | `Python` `Go` |
+| :whte_check_mark: | Find the duplicate number | Medium | `Python` `Go` |
 | :white_check_mark: | Trapping rain water | Hard | `Python` `Go` |
 
 ## Stack
