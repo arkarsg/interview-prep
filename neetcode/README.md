@@ -27,3 +27,6 @@
 | :white_check_mark: | Min Stack | Medium | `Python` `Go` |
 | :white_check_mark: | Generate Valid Parentheses | Medium | `Python` `Go` |
 | :white_check_mark: | Car Fleet | Medium | `Python` `Go` |
+
+## Binary Search
+| :white_check_mark: | Binary Search | Easy | `Python` `Go` |
