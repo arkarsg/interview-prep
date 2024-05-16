@@ -14,6 +14,8 @@
 
 ## Two Pointers
 
+| Done | Problem | Difficulty | Language |
+|---|---|---| --- |
 | :white_check_mark: | Valid Palindrome | Easy | `Python` `Go` |
 | :white_check_mark: | Two Sum II | Medium | `Python` `Go` |
 | :white_check_mark: | 3Sum | Medium | `Python` `Go` |
@@ -23,10 +25,15 @@
 
 ## Stack
 
+| Done | Problem | Difficulty | Language |
+|---|---|---| --- |
 | :white_check_mark: | Valid Parentheses | Easy | `Python` `Go` |
 | :white_check_mark: | Min Stack | Medium | `Python` `Go` |
 | :white_check_mark: | Generate Valid Parentheses | Medium | `Python` `Go` |
 | :white_check_mark: | Car Fleet | Medium | `Python` `Go` |
 
 ## Binary Search
+
+| Done | Problem | Difficulty | Language |
+|---|---|---| --- |
 | :white_check_mark: | Binary Search | Easy | `Python` `Go` |
