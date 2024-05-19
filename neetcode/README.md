@@ -38,3 +38,4 @@
 |---|---|---| --- |
 | :white_check_mark: | Binary Search | Easy | `Python` `Go` |
 | :white_check_mark: | Search in 2D matrix | Medium | `Python` |
+| :white_check_mark: | Koko eating bananas | Medium | `Python` |
