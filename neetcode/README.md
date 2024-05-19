@@ -20,7 +20,7 @@
 | :white_check_mark: | Two Sum II | Medium | `Python` `Go` |
 | :white_check_mark: | 3Sum | Medium | `Python` `Go` |
 | :white_check_mark: | Container with Most Water | Medium | `Python` `Go` |
-| :whte_check_mark: | Find the duplicate number | Medium | `Python` `Go` |
+| :white_check_mark: | Find the duplicate number | Medium | `Python` `Go` |
 | :white_check_mark: | Trapping rain water | Hard | `Python` `Go` |
 
 ## Stack
@@ -37,3 +37,4 @@
 | Done | Problem | Difficulty | Language |
 |---|---|---| --- |
 | :white_check_mark: | Binary Search | Easy | `Python` `Go` |
+| :white_check_mark: | Search in 2D matrix | Medium | `Python` |
