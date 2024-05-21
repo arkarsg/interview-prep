@@ -35,6 +35,6 @@ class Solution:
         return answer or -1
         
 # @lc code=end
-nums = [1]
-target = 3
+nums = [3,4,5,6,1,2]
+target = 1
 print(Solution().search(nums, target))
