@@ -39,3 +39,14 @@
 | :white_check_mark: | Binary Search | Easy | `Python` `Go` |
 | :white_check_mark: | Search in 2D matrix | Medium | `Python` |
 | :white_check_mark: | Koko eating bananas | Medium | `Python` |
+| :white_check_mark: | Find minimum in rotated sorted array | Medium | `Python` |
+| :white_check_mark: | Search in rotated sorted array | Medium | `Python` |
+| :white_check_mark: | Time-based key-value store | Medium | `Python` |
+| :white_check_mark: | Median of two sorted arrays | Hard | `Python` |
+
+## Linked list
+| Done | Problem | Difficulty | Language |
+|---|---|---| --- |
+| :white_check_mark: | Reverse linked list | Easy | `Python` `Go` |
+
+
