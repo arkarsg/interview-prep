@@ -48,5 +48,7 @@
 | Done | Problem | Difficulty | Language |
 |---|---|---| --- |
 | :white_check_mark: | Reverse linked list | Easy | `Python` `Go` |
+| :white_check_mark: | Merge two sorted arrays | Easy | `Python`|
+| :white_check_mark: | Reorder lists | Medium | `Python`|
 
 

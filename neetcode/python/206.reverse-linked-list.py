@@ -32,7 +32,5 @@ class Solution:
 
         return prev_node
 
-
-        
 # @lc code=end
 
