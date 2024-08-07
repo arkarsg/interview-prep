@@ -1,5 +1,5 @@
 # Design Twitter
-Leetcode #355
+[Leetcode #355](https://leetcode.com/problems/design-twitter/submissions/1347914351))
 
 **Key skills**
 - OOP
